@@ -6,7 +6,6 @@ Created two models to slove the Name entity recognition. Name-Entity-Recognition
 1. [General](#General)
 3. [Program Structure](#Program-Structure)
     - [Network Structure](#Network-Structure)
-    - [Visualtions](#Visualtions)
 5. [Installation](#Installation)
 
 ## General
